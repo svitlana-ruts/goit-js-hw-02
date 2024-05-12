@@ -25,7 +25,6 @@ switch (country) {
     return getShippingCost;
 }
 
-
 /*
 function getShippingCost(country) {
 switch (country) {
